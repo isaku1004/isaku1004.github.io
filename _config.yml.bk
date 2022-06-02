@@ -52,6 +52,14 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
+# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#  - Lists
+#  - Tables
+#  - <a href="google.com">Links</a>
+#  - Images ![alt text](/images/landscape-trees.jpg "Trees")
+
   - Java Backend / c++ backend / Android & iOS 기반의 11년차 개발자입니다.
   - 확장성과 유지 보수성이 높은 아키텍처와 클린코드를 위해 언제나 고민합니다.
   - 새로운 기술과 트렌드에 관심이 많아 새로운 기술로 토이 프로젝트를 즐기고 있습니다.
