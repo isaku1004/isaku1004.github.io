@@ -88,9 +88,17 @@ content:
         caption: (2014.12 - 현재)
         link: https://www.stclab.com
         quote: >
-          Short description of the company (optional)
+          국내 350여개의 고객사를 보유한 대량 트래픽 제어 솔루션
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - 코어 서버 메인 개발자로 개발/운영
+          - 라이센스 레거시 개편
+          - 젠킨스를 활용한 빌드 자동화 및 테스트 자동화 구축
+        quote: >
+          APM 솔루션 (신한은행, 아시아나 항공, KB 캐피탈등의 고객사 보유)
+        description: | # this will include new lines to allow paragraphs
+          - 코어 서버 메인 개발자로 개발/운영
+          - 라이센스 레거시 개편
+          - 젠킨스를 활용한 빌드 자동화 및 테스트 자동화 구축
   - title: Education
     layout: list
     content:
