@@ -60,26 +60,6 @@ about_content: | # this will include new lines to allow paragraphs
   - 테스트 코드의 작성을 중요하게 여겨 xxxx 개의 테스트 케이스를 항상 수행했습니다.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
   - title: Experience
     layout: list
     content:
@@ -104,6 +84,7 @@ content:
           - JDK5 ~ 15 까지의 환경 대응 및 버전별 다른 동작 이슈 해결
           - Object Pool 을 이용한 성능 개선 및 메모리 사용량 개선
       - layout: left
+        border: weak
         sub_title: JS Frontend Lead / AppInsightor
         description: | # this will include new lines to allow paragraphs
           - AngluarJS 를 이용한 초기 개발 환경 구축 및 개발 방법 리드
@@ -131,6 +112,28 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+  - title: Skills
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Backend
+#        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#        link_text: Link Text
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+           현재 업무에 사용중 혹은 사용했던 기술들입니다.
+        description: | # this will include new lines to allow paragraphs
+          - Java, c, c++
+          - Spring Boot, Spring MVC, Spring Batch
+          - Tomcat, Jeus, Weblogic, Jboss, wildfly
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
