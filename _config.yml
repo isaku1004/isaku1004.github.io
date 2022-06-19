@@ -82,7 +82,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: STCLab
         sub_title: c++ 서버 개발자 / NetFunnel 팀장
         caption: (2014.12 - 현재)
