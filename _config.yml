@@ -93,7 +93,6 @@ content:
           - 코어 서버 메인 개발자로 개발/운영
           - 라이센스 레거시 개편
           - 젠킨스를 활용한 빌드 자동화 및 테스트 자동화 구축
-    content:
       - layout: left
         title: STCLab
         sub_title: Java Agent
