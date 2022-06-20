@@ -83,6 +83,13 @@ content:
           - Bytecode 직접 삽입으로 구현되어 있던 기능을 ByteBuddy Library 로 변경하여 크리티컬 버그 수정 및 생산성 강화
           - JDK5 ~ 15 까지의 환경 대응 및 버전별 다른 동작 이슈 해결
           - Object Pool 을 이용한 성능 개선 및 메모리 사용량 개선
+      - layout: left
+        border: weak
+        sub_title: JS Frontend Lead / AppInsightor
+        description: | # this will include new lines to allow paragraphs
+          - AngluarJS 를 이용한 초기 개발 환경 구축 및 개발 방법 리드
+          - 각종 차트 라이브러리 개발
+          - 2015년 우수사원 선정
   - title: Education
     layout: list
     content:
