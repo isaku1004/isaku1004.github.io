@@ -90,7 +90,7 @@ content:
           - AngluarJS 를 이용한 초기 개발 환경 구축 및 개발 방법 리드
           - 각종 차트 라이브러리 개발
           - 2015년 우수사원 선정
-     - layout: left
+      - layout: left
         title: KicoSystems 일본근무
         sub_title: c 서버 개발자
         caption: (2010.11 - 2014.3)
