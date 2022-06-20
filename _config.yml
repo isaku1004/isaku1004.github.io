@@ -12,8 +12,8 @@ email: isaku1004@gmail.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-# website: https://damedame.tistory.com
-Blog: https://damedame.tistory.com
+website: https://damedame.tistory.com
+# Blog: https://damedame.tistory.com
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -83,24 +83,6 @@ content:
           - Bytecode 직접 삽입으로 구현되어 있던 기능을 ByteBuddy Library 로 변경하여 크리티컬 버그 수정 및 생산성 강화
           - JDK5 ~ 15 까지의 환경 대응 및 버전별 다른 동작 이슈 해결
           - Object Pool 을 이용한 성능 개선 및 메모리 사용량 개선
-      - layout: left
-        border: weak
-        sub_title: JS Frontend Lead / AppInsightor
-        description: | # this will include new lines to allow paragraphs
-          - AngluarJS 를 이용한 초기 개발 환경 구축 및 개발 방법 리드
-          - 각종 차트 라이브러리 개발
-          - 2015년 우수사원 선정
-     - layout: left
-        title: KicoSystems (구: 교보시스템즈 일본지사)
-        sub_title: c 서버 개발자
-        caption: (2010.11 - 2014.3)
-        link: https://www.kico.co.jp/
-        quote: >
-          교보정보통신 일본지사 (연매출 500억 이상의 중견 SI)
-        description: | # this will include new lines to allow paragraphs
-          - 홋카이도 전력 전력 제어 시스템 SI 프로젝트 참여
-          - 세븐 일레븐 (일본내 2만개 점포) 차세대 프로젝트 참여
-          - stratus, linux, c, java, oracle, postgress 를 이용한 개발 경험
   - title: Education
     layout: list
     content:
