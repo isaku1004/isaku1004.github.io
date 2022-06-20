@@ -90,6 +90,17 @@ content:
           - AngluarJS 를 이용한 초기 개발 환경 구축 및 개발 방법 리드
           - 각종 차트 라이브러리 개발
           - 2015년 우수사원 선정
+     - layout: left
+        title: KicoSystems (구: 교보시스템즈 일본지사)
+        sub_title: c 서버 개발자
+        caption: (2010.11 - 2014.3)
+        link: https://www.kico.co.jp/
+        quote: >
+          교보정보통신 일본지사 (연매출 500억 이상의 중견 SI)
+        description: | # this will include new lines to allow paragraphs
+          - 홋카이도 전력 전력 제어 시스템 SI 프로젝트 참여
+          - 세븐 일레븐 (일본내 2만개 점포) 차세대 프로젝트 참여
+          - stratus, linux, c, java, oracle, postgress 를 이용한 개발 경험
   - title: Education
     layout: list
     content:
