@@ -105,16 +105,16 @@ content:
     layout: list
     content:
       - layout: left
-        title: 안드로이드 앱 개발
-        sub_title: AppLock
-        caption: 2013년 런칭
+        title: SR AppLock
+        sub_title: 안드로이드 앱
+        caption: 2013년 출시
         link: https://play.google.com/store/apps/details?id=com.common.srlock&hl=ko&gl=US
         quote: >
           누적 다운로드 30만 이상의 안드로이드 어플리케이션
         description: | # this will include new lines to allow paragraphs
           - WindowManager 를 활용한 타 어플리케이션 조작 방지 어플리케이션
           - 일일 최대 광고 리퀘스트 수 100만 이상 달성
-          - 월 최대 광고 수익 200만 이상 달성
+          - 월 최대 광고 수익 200만원 이상 달성
   - title: Skills
     layout: list # Type of content section (list/text)
     content:
