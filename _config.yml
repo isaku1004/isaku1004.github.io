@@ -98,20 +98,23 @@ content:
         quote: >
           교보정보통신 일본지사 (연매출 500억 이상의 중견 SI)
         description: | # this will include new lines to allow paragraphs
-          - 홋카이도 전력 전력 제어 시스템 SI 프로젝트 참여
+          - 홋카이도 전력 전력 제어 시스템 차세대 프로젝트 참여
           - 세븐 일레븐 (일본내 2만개 점포) 차세대 프로젝트 참여
-          - stratus, linux, c, java, oracle, postgress 를 이용한 개발 경험
-  - title: Education
+          - 사용가 경험 기반 선곡 추천 안드로이드 뮤직플레이어 프로젝트 참여 (덴소 연구소)
+  - title: Other Experience
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+      - layout: left
+        title: 안드로이드 앱 개발
+        sub_title: AppLock
+        caption: 2013년 런칭
+        link: https://play.google.com/store/apps/details?id=com.common.srlock&hl=ko&gl=US
         quote: >
-          Short institution or course description (optional)
+          누적 다운로드 30만 이상의 안드로이드 어플리케이션
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          - WindowManager 를 활용한 타 어플리케이션 조작 방지 어플리케이션
+          - 일일 최대 광고 리퀘스트 수 100만 이상 달성
+          - 월 최대 광고 수익 200만 이상 달성
   - title: Skills
     layout: list # Type of content section (list/text)
     content:
