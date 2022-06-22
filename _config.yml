@@ -99,8 +99,11 @@ content:
           교보정보통신 일본지사 (연매출 500억 이상의 중견 SI)
         description: | # this will include new lines to allow paragraphs
           - 홋카이도 전력 전력 제어 시스템 차세대 프로젝트 참여
+            - 댐 수위조절 c 서버파트, Java Swing 을 이용한 스켈톤 클라이언트 파트 담당
           - 세븐 일레븐 (일본내 2만개 점포) 차세대 프로젝트 참여
+            - POS 단말기 데이터 배포 서버 담당
           - 사용가 경험 기반 선곡 추천 안드로이드 뮤직플레이어 프로젝트 참여 (덴소 연구소)
+            - XML 파싱 담당
   - title: Other Experience
     layout: list
     content:
