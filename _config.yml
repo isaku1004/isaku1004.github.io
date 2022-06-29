@@ -91,7 +91,7 @@ content:
           - 2015년 우수사원 선정
       - layout: left
         title: KicoSystems 일본근무, 교보정보통신 일본지사 (연매출 500억 이상의 중견 SI)
-        sub_title: c 서버 개발자
+        sub_title: c backend, java frontend  
         caption: (2010.11 - 2014.3)
         link: https://www.kico.co.jp/
         quote: >
@@ -99,6 +99,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           - 댐 수위조절 서버파트 (c++)
           - Java Swing 을 이용한 스켈톤 클라이언트 파트 담당
+      - layout: left
+        sub_title: c backend
         quote: >
           세븐 일레븐 점포관리 차세대
         description: | # this will include new lines to allow paragraphs
