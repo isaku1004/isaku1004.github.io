@@ -71,17 +71,18 @@ content:
         quote: >
           국내 350여개의 고객사를 보유한 대량 트래픽 제어 솔루션
         description: | # this will include new lines to allow paragraphs
-          - 코어 서버 메인 개발자로 개발/운영
+          - 서버 메인 개발자로 개발 / 운영
           - 라이센스 레거시 개편
           - 젠킨스를 활용한 빌드 자동화 및 테스트 프레임워크 구축
-          - AWS Saas 아키텍쳐 설계 및 구축
+          - NetFUNNEL Core Server AWS Saas 아키텍쳐 설계 및 구축
           - iOS(Method swizzling) 를 도입한 Client 간편 적용 방법론 제안 및 개발 리드
       - layout: left
         sub_title: Java Backend Lead / AppInsightor
         quote: >
           APM 솔루션 (신한은행, 아시아나 항공, KB 캐피탈등의 고객사 보유)
         description: | # this will include new lines to allow paragraphs
-          - Bytecode 직접 삽입으로 구현되어 있던 기능을 ByteBuddy Library 로 변경하여 크리티컬 버그 수정 및 생산성 강화
+          - 백엔드 에이전트 메인 개발자로 개발 / 운영
+          - ASM (Bytecode 직접 삽입으로 구현) -> ByteBuddy로 변경하여 크리티컬 버그 수정 및 생산성 강화
           - JDK5 ~ 15 까지의 환경 대응 및 버전별 이동작 이슈 해결
           - Object Pool 을 이용한 성능 개선 및 메모리 사용량 개선
       - layout: left
@@ -108,9 +109,24 @@ content:
         description: | # this will include new lines to allow paragraphs
           - POS 단말기 데이터 배포 서버 담당
           - 배포 LOG Batch 서버 담당
+      - layout: left
+        sub_title: android, java
+        quote: >
+          안드로이드 취향추천 뮤직플레이어
+        description: | # this will include new lines to allow paragraphs
+          - XML 파싱 담당
   - title: Other Experience
     layout: list
     content:
+      - layout: left
+        title: Puzzle Pang 
+        sub_title: 안드로이드 게임 앱
+        caption: 2022년 출시 예정
+        quote: >
+          유니티로 개발한 새로운 타입의 매칭 퍼즐 게임
+        description: | # this will include new lines to allow paragraphs
+          - google game service 를 이용한 로그인, 데이터 세이브, 업적, 랭킹 시스템 구현
+          - google admob 을 이용한 리워드 광고 구현
       - layout: left
         title: SR AppLock
         sub_title: 안드로이드 앱
@@ -139,17 +155,17 @@ content:
         quote: >
            현재 업무에 사용중 혹은 사용했던 기술들입니다.
         description: | # this will include new lines to allow paragraphs
-          - Java, c, c++
+          - Java, c, c++, python
           - Spring Boot, Spring MVC, Spring Batch
           - ASM, bytebuddy, JavaAgent
           - Gradle, Maven
-          - IntelliJ, Eclipse, STS, VSCode
+          - IntelliJ, Eclipse, STS, Pycharm
       - layout: left
         title: Frontend
         description: | # this will include new lines to allow paragraphs
           - javascript, java, kotlin, objective-c, swift
           - jquery, angularJS
-
+          - Android Studio, XCode, VSCode, Atom
       - layout: left
         title: DevOps
         description: | # this will include new lines to allow paragraphs
