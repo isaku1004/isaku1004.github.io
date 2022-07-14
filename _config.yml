@@ -53,11 +53,11 @@ github_username:  isaku1004
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  - Java / c++ backend 기반의 개발자입니다.
+  - Java / c++ backend 기반의 백엔드 개발자입니다.
   - 확장성과 유지 보수성이 높은 아키텍처와 클린코드를 위해 언제나 고민합니다.
-  - 새로운 기술과 트렌드에 관심이 많아 새로운 기술로 토이 프로젝트를 즐기고 있습니다.
+  - 새로운 기술의 학습과 이슈 해결을 위한 토이 프로젝트를 즐기고 있습니다.
   - 훌륭한 제품은 혼자가 아닌 함께 만들어야 한다고 생각하여 적극적으로 커뮤니케이션하고 있습니다.
-  - 테스트 코드의 작성을 중요하게 여겨 xxxx 개의 테스트 케이스를 항상 수행했습니다.
+  - 테스트 코드의 작성과 테스트 환경을 매우 중요하게 생각합니다.
 
 content:
   - title: Experience
@@ -73,33 +73,34 @@ content:
         description: | # this will include new lines to allow paragraphs
           - 코어 서버 메인 개발자로 개발/운영
           - 라이센스 레거시 개편
-          - 젠킨스를 활용한 빌드 자동화 및 테스트 자동화 구축
-          - Android(ByteCode 삽입기법), iOS(Method swizzling) 를 도입한 Client 간편 적용 방법론 제안 및 개발 리드
+          - 젠킨스를 활용한 빌드 자동화 및 테스트 프레임워크 구축
+          - AWS Saas 아키텍쳐 설계 및 구축
+          - iOS(Method swizzling) 를 도입한 Client 간편 적용 방법론 제안 및 개발 리드
       - layout: left
         sub_title: Java Backend Lead / AppInsightor
         quote: >
           APM 솔루션 (신한은행, 아시아나 항공, KB 캐피탈등의 고객사 보유)
         description: | # this will include new lines to allow paragraphs
           - Bytecode 직접 삽입으로 구현되어 있던 기능을 ByteBuddy Library 로 변경하여 크리티컬 버그 수정 및 생산성 강화
-          - JDK5 ~ 15 까지의 환경 대응 및 버전별 다른 동작 이슈 해결
+          - JDK5 ~ 15 까지의 환경 대응 및 버전별 이동작 이슈 해결
           - Object Pool 을 이용한 성능 개선 및 메모리 사용량 개선
       - layout: left
         sub_title: JS Frontend Lead / AppInsightor
         description: | # this will include new lines to allow paragraphs
-          - AngluarJS 를 이용한 초기 개발 환경 구축 및 개발 방법 리드
+          - AngluarJS 를 이용한 초기 개발 환경 구축 및 개발 리드
           - 각종 차트 라이브러리 개발
           - 2015년 우수사원 선정
       - layout: left
-        title: KicoSystems (일본)근무
+        title: KicoSystems (일본)
         sub_title: c backend, java frontend  
         caption: (2010.11 - 2014.3)
-          교보정보통신 일본지사 (연매출 500억 이상의 중견 SI)
         link: https://www.kico.co.jp/
         quote: >
+          교보정보통신 일본지사 (연매출 500억 이상의 중견 SI)
           홋카이도 전력 전력 제어 시스템 차세대
         description: | # this will include new lines to allow paragraphs
-          - 댐 수위조절 서버파트 (c++)
-          - Java Swing 을 이용한 스켈톤 클라이언트 파트 담당
+          - 댐 수위조절 서버파트 (c++) 담당
+          - Java Swing 을 이용한 클라이언트 파트 담당
       - layout: left
         sub_title: c backend
         quote: >
